@@ -1,7 +1,7 @@
 package errors
 
 import (
-	"github.com/tencentad/marketing-api-go-sdk/pkg/model"
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/model"
 )
 
 // ResponseError ...

@@ -2,8 +2,8 @@ package ads
 
 import (
 	"context"
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/config"
 	uuid "github.com/satori/go.uuid"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config"
 	"net/http"
 	"strconv"
 	"time"

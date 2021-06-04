@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/api"
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/config"
 	uuid "github.com/satori/go.uuid"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/api"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config"
 )
 
 // SDKClient ...

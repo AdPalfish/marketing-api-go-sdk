@@ -11,8 +11,8 @@ package api
 
 import (
 	"context"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/errors"
-	. "github.com/tencentad/marketing-api-go-sdk/pkg/model"
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/errors"
+	. "github.com/AdPalfish/marketing-api-go-sdk/pkg/model"
 	"io/ioutil"
 	"net/http"
 	"net/url"

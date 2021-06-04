@@ -10,7 +10,7 @@
 package ads
 
 import (
-	"github.com/tencentad/marketing-api-go-sdk/pkg/api"
+	"github.com/AdPalfish/marketing-api-go-sdk/pkg/api"
 )
 
 func (c *SDKClient) AdDiagnosis() *api.AdDiagnosisApiService {
